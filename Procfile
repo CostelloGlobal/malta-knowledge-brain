@@ -1,1 +1,1 @@
-worker: python malta_rag_automation.py
+worker: python malta_qdrant_upload.py
